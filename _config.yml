@@ -1,4 +1,4 @@
-include: [sitemap.xml]
+include: [master-list.xml, site-index]
 defaults:
   - scope:
       path: ""
